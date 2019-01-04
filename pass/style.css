@@ -15,9 +15,9 @@
  }
  .login-screen {
      background-color: #FFF;
+     width: 500px;
      padding: 20px;
      border-radius: 5px
-     width:500px;
  }
  .app-title {
      text-align: center;
