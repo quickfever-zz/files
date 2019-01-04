@@ -5,8 +5,8 @@
      outline: none;
  }
  body {
-     font-family: Arial;
-     background-color: #3498DB;
+     font-family: SEGOE UI, Sans Serif;
+     background-color: #4CAF50;
      padding: 20px 0;
  }
  .login {
@@ -17,13 +17,14 @@
      background-color: #FFF;
      padding: 20px;
      border-radius: 5px
+     width:500px;
  }
  .app-title {
      text-align: center;
      color: #777;
      font-size: 12px;
      text-transform: uppercase;
-     font-family: courier;
+     font-family: Segoe UI, sans serif;
  }
  .login-form {
      text-align: center;
